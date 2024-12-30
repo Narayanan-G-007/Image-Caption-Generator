@@ -14,10 +14,13 @@ This Project accepts limited image types. Because, It needs to extract some para
 ## Sample screenshot
 
 **Sample Screenshot - 1**
+
 ![Sample1](https://github.com/user-attachments/assets/06d9dcbe-c0f9-400b-8fec-86b0db792f96)
 
 **Sample Screenshot - 2**
+
 ![Sample2](https://github.com/user-attachments/assets/3a4b8b8e-7994-4066-8b5e-eb9486722cf1)
 
 **Sample Screenshot - 3**
+
 ![Sample3](https://github.com/user-attachments/assets/3efd1efc-7eec-4a1f-886c-d7e787e849b4)
