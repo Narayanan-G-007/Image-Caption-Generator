@@ -1,6 +1,6 @@
 # Image Caption Generator using Python GUI
 
-Hi! This project focuses on creating Captions for image inputs. This was built as a Graphical User Interface for the greatest user experience and provides an interface similar to that of an external app. 
+Hi! This project focuses on creating Captions for image inputs. This was built as a Graphical User Interface for the greatest user experience and provides an interface similar to that of an external app. A **GUI Button** was used as **Browse Image** for selecting image from your computer. Image should be saved on your computer, because it can't access the image via a web url.
 
 ## Accepted Image Types
 This Project accepts limited image types. Because, It needs to extract some parameters from the image, it will be provided by these image types. They are
